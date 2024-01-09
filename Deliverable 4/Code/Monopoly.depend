@@ -1,0 +1,167 @@
+# depslib dependency file v1.0
+1557740281 source:d:\documents\university\2\object oriented programming\project\deliverable 4\bank.cpp
+	"bank.h"
+
+1551912604 d:\documents\university\2\object oriented programming\project\deliverable 4\bank.h
+	<string>
+
+1557753553 source:d:\documents\university\2\object oriented programming\project\deliverable 4\boardgame.cpp
+	<time.h>
+	<iostream>
+	<string>
+	<sstream>
+	<cstdlib>
+	"space.h"
+	"player.h"
+	"dice.h"
+	"bank.h"
+	"boardgame.h"
+	"helpers.h"
+
+1557753533 d:\documents\university\2\object oriented programming\project\deliverable 4\space.h
+	<string>
+	"dice.h"
+	"player.h"
+
+1551909518 d:\documents\university\2\object oriented programming\project\deliverable 4\dice.h
+
+1557839296 d:\documents\university\2\object oriented programming\project\deliverable 4\player.h
+	<string>
+	"space.h"
+
+1557774809 d:\documents\university\2\object oriented programming\project\deliverable 4\boardgame.h
+	"deck.h"
+	"dice.h"
+	"space.h"
+	"player.h"
+
+1557795922 d:\documents\university\2\object oriented programming\project\deliverable 4\deck.h
+	"card.h"
+
+1557775304 d:\documents\university\2\object oriented programming\project\deliverable 4\card.h
+	<string>
+	"bank.h"
+	"player.h"
+
+1551364227 d:\documents\university\2\object oriented programming\project\deliverable 4\helpers.h
+	<iterator>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<cstdlib>
+
+1557839329 source:d:\documents\university\2\object oriented programming\project\deliverable 4\deck.cpp
+	"deck.h"
+	"helpers.h"
+	"card.h"
+	"shuffler.h"
+
+1558984805 d:\documents\university\2\object oriented programming\project\deliverable 4\shuffler.h
+	<iostream>
+
+1557744609 source:d:\documents\university\2\object oriented programming\project\deliverable 4\dice.cpp
+	<cstdlib>
+	<ctime>
+	"dice.h"
+
+1557753568 source:d:\documents\university\2\object oriented programming\project\deliverable 4\gui\bottombar.cpp
+	<iostream>
+	"bottomBar.h"
+	"mainwindow.h"
+	"../dice.h"
+
+1555524244 d:\documents\university\2\object oriented programming\project\deliverable 4\gui\bottombar.h
+	<QtGui>
+	<QDockWidget>
+	<QPushButton>
+	<QGridLayout>
+	"centralwidget.h"
+	"../bank.h"
+	"../boardgame.h"
+
+1555524251 d:\documents\university\2\object oriented programming\project\deliverable 4\gui\centralwidget.h
+	<QtGui>
+
+1557741965 d:\documents\university\2\object oriented programming\project\deliverable 4\gui\mainwindow.h
+	<QtGui>
+	"centralwidget.h"
+	"bottomBar.h"
+	"guiplayers.h"
+	<QPlainTextEdit>
+	"../player.h"
+	"../space.h"
+	"../boardgame.h"
+
+1555524260 d:\documents\university\2\object oriented programming\project\deliverable 4\gui\guiplayers.h
+	"../player.h"
+	<QtGui>
+	<QDockWidget>
+	<string>
+	<sstream>
+	<QVBoxLayout>
+	<QHBoxLayout>
+	"../space.h"
+	"../bank.h"
+	<QtCore/QSignalMapper>
+	"bottomBar.h"
+
+1557777108 source:d:\documents\university\2\object oriented programming\project\deliverable 4\gui\centralwidget.cpp
+	"centralwidget.h"
+	<iostream>
+	<sstream>
+
+1555524320 source:d:\documents\university\2\object oriented programming\project\deliverable 4\gui\guiplayers.cpp
+	<iostream>
+	"guiplayers.h"
+
+1557750058 source:d:\documents\university\2\object oriented programming\project\deliverable 4\gui\mainwindow.cpp
+	<iostream>
+	<typeinfo>
+	"mainwindow.h"
+
+1555524348 source:d:\documents\university\2\object oriented programming\project\deliverable 4\gui\moc_bottombar.cpp
+	"bottomBar.h"
+
+1555524353 source:d:\documents\university\2\object oriented programming\project\deliverable 4\gui\moc_centralwidget.cpp
+	"centralwidget.h"
+
+1555524343 source:d:\documents\university\2\object oriented programming\project\deliverable 4\gui\moc_guiplayers.cpp
+	"guiplayers.h"
+
+1555524326 source:d:\documents\university\2\object oriented programming\project\deliverable 4\gui\moc_mainwindow.cpp
+	"mainwindow.h"
+
+1555544212 source:d:\documents\university\2\object oriented programming\project\deliverable 4\helpers.cpp
+	<sstream>
+	<cstring>
+	<iostream>
+	"helpers.h"
+
+1557797012 source:d:\documents\university\2\object oriented programming\project\deliverable 4\main.cpp
+	<time.h>
+	<iostream>
+	<string>
+	<sstream>
+	<cstdlib>
+	"space.h"
+	"player.h"
+	"dice.h"
+	"bank.h"
+	"boardgame.h"
+	"helpers.h"
+	<QApplication>
+	"gui/mainwindow.h"
+
+1557753836 source:d:\documents\university\2\object oriented programming\project\deliverable 4\player.cpp
+	<sstream>
+	<iostream>
+	"player.h"
+
+1557752484 source:d:\documents\university\2\object oriented programming\project\deliverable 4\space.cpp
+	<iostream>
+	"space.h"
+
+1558400732 source:d:\documents\university\2\object oriented programming\project\deliverable 4\card.cpp
+	"card.h"
+
