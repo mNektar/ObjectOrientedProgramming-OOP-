@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1554929493 source:c:\users\26mne\onedrive\desktop\monopoly\bank.cpp
+	"bank.h"
+
+1551912604 c:\users\26mne\onedrive\desktop\monopoly\bank.h
+	<string>
+
+1554239914 source:c:\users\26mne\onedrive\desktop\monopoly\dice.cpp
+	<cstdlib>
+	"dice.h"
+
+1554240344 c:\users\26mne\onedrive\desktop\monopoly\dice.h
+
+1554219492 source:c:\users\26mne\onedrive\desktop\monopoly\helpers.cpp
+	<sstream>
+	<cstring>
+	<iostream>
+	"helpers.h"
+
+1554237993 c:\users\26mne\onedrive\desktop\monopoly\helpers.h
+	<iterator>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<cstdlib>
+	"space.h"
+	"player.h"
+
+1554240024 c:\users\26mne\onedrive\desktop\monopoly\space.h
+	<string>
+
+1554240185 c:\users\26mne\onedrive\desktop\monopoly\player.h
+	<string>
+
+1554251094 source:c:\users\26mne\onedrive\desktop\monopoly\main.cpp
+	<time.h>
+	<iostream>
+	<string>
+	<sstream>
+	<cstdlib>
+	"player.h"
+	"space.h"
+	"dice.h"
+	"bank.h"
+	"helpers.h"
+	"actions.h"
+
+1554238698 c:\users\26mne\onedrive\desktop\monopoly\actions.h
+	"bank.h"
+	"space.h"
+	"player.h"
+
+1554929343 source:c:\users\26mne\onedrive\desktop\monopoly\space.cpp
+	<iostream>
+	"space.h"
+
+1554929615 source:c:\users\26mne\onedrive\desktop\monopoly\player.cpp
+	<iostream>
+	<sstream>
+	"player.h"
+
+1554929398 source:c:\users\26mne\onedrive\desktop\monopoly\actions.cpp
+	<iostream>
+	"actions.h"
+
